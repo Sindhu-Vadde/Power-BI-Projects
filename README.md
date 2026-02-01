@@ -2,6 +2,8 @@
 
 This project showcases a comprehensive Retail Sales Analytics Dashboard developed using the Large Retail Dataset from Kaggle. The dashboard is designed to deliver both high-level business insights and advanced analytical intelligence, while allowing users to dynamically explore trends at daily, weekly, and monthly levels through an interactive timeframe selection.
 
+**The GOOGLE DRIVE LINK for the project is https://drive.google.com/file/d/1S8Rfucl_SqSrjNHwexx1SE6t8Pg_DX5G/view?usp=sharing**
+
 The dashboard is divided into two analytical layers:
 
 🟢 Page 1: Basic Analytics
