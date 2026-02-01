@@ -1,19 +1,21 @@
-📊 Retail Sales Analytics Dashboard (Power BI)
+**📊 Retail Sales Analytics Dashboard (Power BI)**
 
 This project showcases a comprehensive Retail Sales Analytics Dashboard developed using the Large Retail Dataset from Kaggle. The dashboard is designed to deliver both high-level business insights and advanced analytical intelligence, while allowing users to dynamically explore trends at daily, weekly, and monthly levels through an interactive timeframe selection.
 
 The dashboard is divided into two analytical layers:
 
-🟢 Page 1 – Basic Analytics
-
-🔵 Page 2 – Advanced Analytics
-
 🟢 Page 1: Basic Analytics
 (Descriptive & Operational Insights)
 
+
+🔵 Page 2 – Advanced Analytics
+
+
+**🟢 Page 1: Basic Analytics**
+
 This page focuses on core KPIs and summary insights that provide an immediate view of business performance across multiple time granularities.
 
-📌 Key KPIs
+**📌 Key KPIs**
 
 💰 Total Sales – Overall revenue generated
 
@@ -29,7 +31,7 @@ This page focuses on core KPIs and summary insights that provide an immediate vi
 
 📅 All KPIs and visuals on this page dynamically adjust between Daily, Weekly, and Monthly views based on the selected timeframe parameter.
 
-👤 Customer Overview
+**👤 Customer Overview**
 
 This section analyzes customer behavior and demographics across different time granularities:
 
@@ -39,7 +41,7 @@ Engagement analysis using app usage, social media engagement, and email subscrip
 
 Trend analysis that dynamically switches between daily, weekly, and monthly views
 
-📦 Product Overview
+**📦 Product Overview**
 
 Provides product-level insights with flexible time resolution:
 
@@ -49,7 +51,7 @@ Units sold distribution across categories
 
 Identification of consistently high- and low-performing product groups over different timeframes
 
-🧮 Sales Overview
+**🧮 Sales Overview**
 
 Examines sales patterns with interactive timeframe control:
 
@@ -61,8 +63,8 @@ Impact of promotion type, promotion channel, and target audience
 
 Seasonal and short-term demand effects visible through timeframe switching
 
-🔵 Page 2: Advanced Analytics
-(Strategic & Diagnostic Insights)
+**🔵 Page 2: Advanced Analytics
+(Strategic & Diagnostic Insights)**
 
 The second page introduces advanced analytical metrics that provide deeper insights into efficiency, dependency, and concentration, while still supporting multi-granular time analysis.
 
@@ -100,7 +102,7 @@ Identification of products driving sustained versus short-term sales spikes
 
 This dashboard was built on a large-scale retail dataset, closely reflecting real-world production analytics scenarios.
 
-📊 Dataset Characteristics
+**📊 Dataset Characteristics**
 
 📈 1+ million records
 
@@ -116,7 +118,7 @@ This dashboard was built on a large-scale retail dataset, closely reflecting rea
 
 🚀 Maintained dashboard responsiveness despite dataset size and analytical complexity
 
-🛠 Tools & Technologies
+**🛠 Tools & Technologies**
 
 🧩 Power BI – Interactive data modeling and visualization
 
@@ -124,7 +126,7 @@ This dashboard was built on a large-scale retail dataset, closely reflecting rea
 
 📊 Kaggle Retail Dataset – Large-scale retail transactional data
 
-🎯 Key Takeaways
+**🎯 Key Takeaways**
 
 ✅ Supports dynamic Daily / Weekly / Monthly analysis
 
